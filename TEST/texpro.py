@@ -1,6 +1,4 @@
 
-print("This is  git learning project")
-print("Please print")
 import pandas as pd
 from pandas import ExcelWriter
 import nltk
